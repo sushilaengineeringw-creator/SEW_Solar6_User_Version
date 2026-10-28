@@ -1,0 +1,10 @@
+{
+ "appId": "com.sushila.suryagharcalc",
+ "appName": "SEW Business Manager",
+ "webDir": "www",
+ "plugins": {
+  "CapacitorHttp": {
+   "enabled": true
+  }
+ }
+}
